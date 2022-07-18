@@ -1,4 +1,4 @@
-#Most important Shortcuts #
+## Most important Jupyter Shortcuts
 
 * _?function-name_:: Shows the definition and docstring for that function
 
