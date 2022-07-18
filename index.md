@@ -1,2 +1,1 @@
-Hello and welcome to my blog.
-
+Blog on a bunch of stuff and my musings.
