@@ -7,12 +7,12 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Nitish's blog 
-description: simple blog
+description: simple blog on a bunch of stuff and my musings
 github_username: nitishmurthy
 
 # Email and twitter are optional:
 email:
-twitter_username:
+twitter_username: nitishtg
 
 # Set this to true to get LaTeX math equation support
 use_math:
